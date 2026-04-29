@@ -111,6 +111,7 @@ Intern — SafeSearch & Counterfeit Operations
 
 ### 🐍 Contribution Snake
 
+![snake gif](https://github.com/sidharth1914/sidharth1914/blob/output/github-snake.svg)
 
 
 ### 📈 Activity Graph
