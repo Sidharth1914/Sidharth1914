@@ -20,7 +20,6 @@
 - 🏛️ Building **e-governance portals** for the Uttarakhand Government's **Sports** and **Youth Welfare** departments
 - 🚀 Ship end-to-end: database design, APIs, frontends, cloud deploys, and the reports officials actually read
 - 🎓 **B.Tech CSE**, Uttaranchal University, Dehradun (2022–2026)
-- 📈 Side project: a Python **algo-trading system** on NSE (backtesting + paper trading)
 - 📫 Reach me at **sidharth.1922@gmail.com**
 
 ---
@@ -33,8 +32,6 @@
 | 🏆 **CM Trophy Registration** | State-wide sports championship: registrations, results and medal tallies across districts, blocks and Nyay Panchayats | Laravel · PHP · Azure |
 | 🏟️ **Game Management System** | Sports programmes, coaches, nodal officers and venues for the state | JavaScript · PostgreSQL |
 | 💼 **UK Job Fair Portal** | Job fair and overseas employment registrations | Flask · React · Vercel |
-| 📊 **Trader** | NSE auto-trading via Zerodha Kite: data pipeline, backtests, paper trading | Python |
-| ☕ **Cafe OS** | QR table ordering, online payments, kitchen display and inventory | TypeScript |
 | 🏠 **[Real Estate WebApp](https://github.com/Sidharth1914/Real-Estate-WebApp)** | Secure listings platform with JWT auth and role-based access | React · Spring Boot · MySQL |
 
 <sub>Most of these are private government or client repos, so they don't show up in public stats.</sub>
